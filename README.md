@@ -24,11 +24,15 @@ I am an **AI/ML Research Intern at the Walmart Center for Tech Excellence** and 
 
 <br />
 
-### 🎓 Education & Experience
+### 💼 Experience
 - **Walmart Center for Tech Excellence** — AI/ML Research Intern *(Present)*
-- **IIT Madras** — M.S. in Data Science & Artificial Intelligence *(2025 - 2027)*
 - **AI4Bharat** — Research Intern *(Nov 2025 - Feb 2026)*
-- **Dayananda Sagar University** — B.S. in Computer Science *(2021 - 2025)*
+
+<br />
+
+### 🎓 Education
+- **IIT Madras** — Masters in Data Science Artificial Intelligence *(2025 - 2027)*
+- **Dayananda Sagar University** — Bachelors in Computer Science *(2021 - 2025)*
 
 <br />
 
