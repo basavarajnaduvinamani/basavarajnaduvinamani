@@ -33,6 +33,6 @@ I am an AI/ML Engineer and Data Scientist specializing in Large Language Models 
 ### 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=basavarajnaduvinamani&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajnaduvinamani&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=basavarajnaduvinamani&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basavarajnaduvinamani&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&v=2" alt="Top Languages" />
 </p>
